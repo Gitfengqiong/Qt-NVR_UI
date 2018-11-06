@@ -1,3 +1,10 @@
+/**************This Demo By Qt5 Create *********************************
+ *
+ *      Ver1
+ *     Date:2018.11.6
+ *    By:feng
+*/
+
 #include "nvr_main_ui.h"
 #include <QApplication>
 #include <QStyle>
